@@ -1,0 +1,655 @@
+/version 2
+/name [ 19
+	636c65616e207570206d61746c616220737667
+]
+/isOpen 1
+/actionCount 1
+/action-1 {
+	/name [ 14
+		6b696c6c20776974682066697265
+	]
+	/keyIndex 0
+	/colorIndex 2
+	/isOpen 1
+	/eventCount 64
+	/event-1 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-2 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-3 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-4 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-5 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-6 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-7 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-8 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-9 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-10 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-11 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-12 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-13 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-14 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-15 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-16 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-17 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-18 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-19 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-20 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-21 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-22 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-23 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-24 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-25 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-26 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-27 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-28 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-29 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-30 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-31 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-32 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-33 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-34 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-35 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-36 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-37 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-38 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-39 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-40 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-41 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-42 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-43 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-44 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-45 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-46 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-47 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-48 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-49 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-50 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-51 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-52 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-53 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-54 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-55 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-56 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-57 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-58 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-59 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-60 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-61 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-62 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-63 {
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-64 {
+		/internalName (adobe_releaseMask)
+		/localizedName [ 21
+			52656c6561736520436c697070696e67204d61736b
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+}
