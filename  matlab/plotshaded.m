@@ -13,6 +13,8 @@ end;
 
 shadedstripes=0;
 stripes=0;
+
+
 if numel(color)==3
     if strcmp(color(2:3),'--');
         stripes=1;
@@ -25,6 +27,7 @@ if numel(color)==2
         justoutlines=1;
     end
 end;
+
 
 if numel(varargin)>0
     if strcmp(varargin{1},'--');
@@ -68,6 +71,9 @@ if isa(color,'char')
         otherwise
             color=[0 0 1];
     end;
+else
+    assert(numel(color)==3, 'must be 3 element vector');
+    color=color./max(color);
 end;
 
 %plot(x,y,'color',color); % plot median
